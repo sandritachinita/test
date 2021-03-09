@@ -5,3 +5,6 @@
 
 plot(iris$Sepal.Length)
 summary(iris$Sepal.Length)
+
+
+##https://www.r-bloggers.com/2015/07/rstudio-and-github/

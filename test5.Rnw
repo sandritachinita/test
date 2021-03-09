@@ -1,0 +1,18 @@
+\documentclass{article}
+
+\begin{document}
+
+
+Hola, soy Sandra y estoy haciendo una prueba con Github, funcionará?
+
+Espero que si.
+
+Me acabo de librar de un marrón muuuy importante.
+
+A lo que ibamos, prueba de si funciona fusionar $\textit{Rstudio}$ y $\textbf{Latex}$.
+
+<<>>=
+2+2
+@
+
+\end{document}
